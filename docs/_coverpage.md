@@ -9,5 +9,5 @@
 
 
 [下载文档](https://github.com/IT-EDC/WMS)
-[开始学习](http://localhost:3000/#/README)
+[开始学习](https://it-edc.github.io/CSGWMS/#/README)
 
